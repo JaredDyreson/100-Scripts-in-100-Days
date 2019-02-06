@@ -12,4 +12,4 @@ if [ ! -f "$1" ]; then
   exit
 fi
 
-gdb -batch -ex 'file '$1'' -ex 'set disassembly-flavor intel' -ex 'disassemble _start' | grep -iv 'dump' | sed 's/^\   //g' | awk '{print $3, $4, $5, $6}'
+gdb -batch -ex 'file '$1'' -ex 'set disassembly-flavor intel' -ex 'disassemble _start' | grep -iv 'dump' | awk '{$1=$2=""; print $0}' | sed 's/^\  //g' 
