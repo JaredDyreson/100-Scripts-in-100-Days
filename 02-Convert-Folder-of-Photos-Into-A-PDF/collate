@@ -1,0 +1,27 @@
+#!/usr/bin/env python3.5
+# convert all the images in a current directory into a PDF
+# read the docs, they help -> https://pypi.org/project/img2pdf/
+from bash import find
+import sys
+
+# How to install a pip package from script: https://stackoverflow.com/questions/12332975/installing-python-module-within-code
+try:
+    import img2pdf
+except ImportError:
+    from bash import pipInstall as p
+    p.install("img2pdf")
+
+# from fpdf import FPDF as f
+import os
+
+if len(sys.argv) < 2:
+    print("Usage: collate <dir>")
+    quit()
+
+try:
+    images = [ file for file in find.mimetypes(sys.argv[1], "image") ]
+except FileNotFoundError:
+    print("Could not open dir {}".format(sys.argv[1]))
+    quit()
+with open("output.pdf", "wb") as f:
+    f.write(img2pdf.convert(images))

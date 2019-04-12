@@ -1,0 +1,500 @@
+79 0 85 54 84 93 83 175 82 231 81 293 86 354 91 408 90 447 89 521 88 577 87 639 93 700 97 751 98 830 99 905 100 1000 96 1080 95 1159 103 1221 104 1297 105 1367 106 1458 107 1528 108 1611 109 1689 110 1760 111 1852 112 1923 102 2006 114 2136 113 2232 116 2290 117 2389 119 2466 120 2502 121 2595 118 2648 115 2725 123 2799 124 2878 126 2931 127 2967 128 3053 125 3106 129 3183 130 3261 131 3333 132 3404 133 3477 134 3561 135 3661 136 3735 137 3836 122 3969 101 4115 138 4202 139 4259 92 4316 141 4407 144 4460 143 4543 142 4602 149 4666 150 4740 148 4819 147 4889 153 4948 154 5022 152 5114 151 5184 158 5243 159 5317 160 5392 161 5463 157 5553 156 5639 164 5698 165 5772 163 5948 162 6018 155 6077 168 6143 169 6217 170 6301 171 6373 167 6459 166 6545 175 6604 176 6678 174 6779 173 6849 179 6908 180 6982 181 7057 182 7136 183 7207 178 7291 177 7385 186 7444 187 7518 188 7601 189 7676 190 7747 191 7837 192 7908 193 7982 185 8057 184 8175 172 8234 196 8308 197 8382 198 8468 195 8546 194 8624 146 8683 145 8781 140 8845 200 8922 203 8975 202 9055 201 9114 209 9178 210 9252 208 9395 207 9465 213 9524 214 9598 215 9689 216 9762 212 9862 211 9948 219 10007 220 10081 221 10219 218 10302 217 10380 224 10439 225 10513 226 10650 223 10748 222 10826 229 10885 230 10959 231 11098 228 11198 227 11276 234 11335 235 11409 236 11529 233 11603 232 11681 239 11740 240 11814 238 11917 237 11987 206 12046 243 12152 244 12226 245 12310 246 12388 247 12466 248 12537 249 12609 250 12692 251 12780 252 12867 253 12957 254 13032 255 13175 256 13253 257 13335 258 13414 242 13511 241 13693 262 13752 263 13827 264 13925 261 13997 260 14075 268 14134 269 14209 270 14307 271 14387 272 14462 273 14540 274 14618 267 14693 266 14803 277 14862 278 14937 279 15015 280 15101 276 15187 275 15273 283 15332 284 15407 285 15496 286 15575 282 15652 281 15738 265 15797 259 15871 205 15937 204 16011 199 16075 288 16152 291 16206 292 16282 293 16354 290 16445 289 16519 296 16583 297 16658 298 16730 299 16820 300 16893 301 16970 302 17072 303 17149 295 17224 305 17338 306 17412 307 17484 308 17557 309 17641 310 17716 311 17788 312 17862 313 17937 314 18010 315 18086 316 18160 317 18233 318 18306 319 18381 320 18453 321 18526 304 18598 323 18784 324 18862 325 18940 326 19027 327 19105 322 19188 329 19278 330 19352 331 19455 332 19548 333 19633 334 19723 328 19805 336 19903 337 20007 338 20111 339 20187 340 20279 335 20360 294 20450 341 20546 287 20605 343 20690 344 20744 347 20803 346 20888 345 20946 348 21010 351 21069 352 21168 353 21266 350 21345 355 21419 356 21518 357 21620 354 21695 359 21769 360 21868 361 21957 362 22033 363 22110 364 22183 365 22279 366 22371 367 22470 368 22574 369 22670 358 22749 349 22887 370 22967 371 23026 342 23085 373 23194 374 23248 375 23307 372 23471 376 23548 381 23603 380 23643 379 23728 378 23787 377 23852 382 23915 387 23970 386 24010 385 24087 384 24146 383 24211 389 24274 393 24327 392 24416 391 24475 399 24540 400 24614 401 24690 402 24769 403 24877 404 24958 405 25047 398 25127 397 25238 409 25298 410 25372 408 25465 407 25536 406 25596 413 25655 414 25730 412 25821 411 25892 417 25952 418 26027 419 26116 416 26211 415 26290 424 26350 425 26425 423 26551 422 26622 428 26682 429 26757 430 26841 427 26966 426 27045 433 27105 434 27180 435 27278 436 27351 437 27423 432 27496 431 27591 440 27651 441 27726 442 27837 439 27918 438 27997 445 28057 446 28132 447 28246 448 28325 444 28399 443 28486 452 28546 453 28621 451 28737 450 28808 456 28868 457 28943 455 29047 454 29118 460 29178 461 29253 459 29339 458 29410 464 29470 465 29545 463 29667 462 29738 449 29798 421 29881 420 29980 396 30039 395 30130 394 30189 466 30254 467 30313 468 30372 469 30431 388 30490 471 30600 472 30654 475 30713 476 30790 477 30872 474 30949 473 31025 478 31090 479 31149 480 31208 481 31267 482 31326 483 31385 486 31444 487 31544 485 31637 484 31704 488 31769 489 31828 490 31887 493 31946 492 32018 491 32077 496 32142 495 32217 494 32276 499 32341 498 32415 497 32474 502 32539 501 32613 500 32672 505 32737 504 32810 503 32869 506 32934 509 33028 508 33112 507 33171 470 33236 511 33450 514 33504 513 33588 512 33647 517 33712 518 33816 519 33925 520 34002 521 34101 516 34183 523 34274 524 34382 522 34478 526 34545 527 34652 528 34763 529 34871 525 34962 515 35045 530 35126 531 35185 532 35244 533 35446 510 35505 535 35615 538 35669 539 35748 537 35832 536 35899 544 35964 545 36037 546 36114 547 36293 548 36368 549 36444 550 36533 543 36638 542 36749 553 36809 554 36884 555 37021 552 37114 551 37193 559 37253 560 37328 558 37431 557 37502 563 37562 564 37638 562 37715 561 37786 567 37846 568 37922 566 38019 565 38090 571 38150 572 38226 573 38310 570 38388 569 38467 576 38527 577 38603 575 38680 574 38751 580 38811 581 38887 579 39000 578 39071 556 39131 584 39230 585 39306 586 39390 <</P 76 0 R/S/Header/Type/StructElem/K[] /Pg 3 0 R>>
+<</P 84 0 R/S//Type/StructElem/K[] >>
+<</P 83 0 R/S/Span/Type/StructElem/ActualText(9/23/2018) /K[ 85 0 R] /Pg 3 0 R>>
+<</P 82 0 R/S/P/Type/StructElem/K[ 84 0 R] /Pg 3 0 R>>
+<</P 81 0 R/S/Textbox/Type/StructElem/K[ 83 0 R] /Pg 3 0 R>>
+<</P 76 0 R/S/Footer/Type/StructElem/K[ 82 0 R] /Pg 3 0 R>>
+<</P 76 0 R/S/Footer/Type/StructElem/K[] /Pg 3 0 R>>
+<</P 90 0 R/S//Type/StructElem/K[] >>
+<</P 89 0 R/S/Span/Type/StructElem/ActualText(1) /K[ 91 0 R] /Pg 3 0 R>>
+<</P 88 0 R/S/P/Type/StructElem/K[ 90 0 R] /Pg 3 0 R>>
+<</P 87 0 R/S/Textbox/Type/StructElem/K[ 89 0 R] /Pg 3 0 R>>
+<</P 76 0 R/S/Footer/Type/StructElem/K[ 88 0 R] /Pg 3 0 R>>
+<</P 92 0 R/S/Span/Type/StructElem/Pg 3 0 R/K 0>>
+<</P 96 0 R/S/Span/Type/StructElem/ActualText(Welcome to ) /K[ 1] /Pg 3 0 R>>
+<</P 96 0 R/S/Span/Type/StructElem/ActualText(ANTH101) /K[ 2] /Pg 3 0 R>>
+<</P 96 0 R/S/Span/Type/StructElem/ActualText(Introduction to Biological ) /K[ 3] /Pg 3 0 R>>
+<</P 96 0 R/S/Span/Type/StructElem/ActualText(Anthropology) /K[ 4] /Pg 3 0 R>>
+<</P 95 0 R/S/H1/Type/StructElem/K[ 97 0 R 98 0 R 99 0 R 100 0 R] /Pg 3 0 R>>
+<</P 92 0 R/S/Textbox/Type/StructElem/K[ 96 0 R] /Pg 3 0 R>>
+<</P 102 0 R/S/Span/Type/StructElem/ActualText(ANTH101) /K[ 5] /Pg 3 0 R>>
+<</P 102 0 R/S/Span/Type/StructElem/ActualText(-) /K[ 6] /Pg 3 0 R>>
+<</P 102 0 R/S/Span/Type/StructElem/ActualText(04 \(16625\), ANTH 101) /K[ 7] /Pg 3 0 R>>
+<</P 102 0 R/S/Span/Type/StructElem/ActualText(-) /K[ 8] /Pg 3 0 R>>
+<</P 102 0 R/S/Span/Type/StructElem/ActualText(53 \(16007\), ) /K[ 9] /Pg 3 0 R>>
+<</P 102 0 R/S/Span/Type/StructElem/ActualText(ANTH 101) /K[ 10] /Pg 3 0 R>>
+<</P 102 0 R/S/Span/Type/StructElem/ActualText(-) /K[ 11] /Pg 3 0 R>>
+<</P 102 0 R/S/Span/Type/StructElem/ActualText(54 \(16648\), ANTH 101) /K[ 12] /Pg 3 0 R>>
+<</P 102 0 R/S/Span/Type/StructElem/ActualText(-) /K[ 13] /Pg 3 0 R>>
+<</P 102 0 R/S/Span/Type/StructElem/ActualText(55 \(19902\) ) /K[ 14] /Pg 3 0 R>>
+<</P 101 0 R/S/P/Type/StructElem/K[ 103 0 R 104 0 R 105 0 R 106 0 R 107 0 R 108 0 R 109 0 R 110 0 R 111 0 R 112 0 R] /Pg 3 0 R>>
+<</P 113 0 R/S/Span/Type/StructElem/ActualText(Course website on Titanium) /K[ 15] /Pg 3 0 R>>
+<</P 101 0 R/S/P/Type/StructElem/K[ 114 0 R] /Pg 3 0 R>>
+<</P 115 0 R/S/Span/Type/StructElem/ActualText(Instructor: Dr. Eric Schniter) /K[ 16] /Pg 3 0 R>>
+<</P 115 0 R/S/Span/Type/StructElem/ActualText(Email: ) /K[ 17] /Pg 3 0 R>>
+<</Type/OBJR/Obj 11 0 R/Pg 3 0 R>>
+<</P 118 0 R/S/Span/Type/StructElem/ActualText(eschniter@fullerton.edu) /K[ 18] /Pg 3 0 R>>
+<</P 118 0 R/S/Span/Type/StructElem/Pg 3 0 R/K 19>>
+<</P 115 0 R/S/Link/Type/StructElem/K[ 119 0 R 120 0 R 121 0 R] /Pg 3 0 R>>
+<</P 101 0 R/S/P/Type/StructElem/K[ 116 0 R 117 0 R 118 0 R] /Pg 3 0 R>>
+<</P 122 0 R/S/Span/Type/StructElem/ActualText(Twitter: ) /K[ 20] /Pg 3 0 R>>
+<</P 122 0 R/S/Span/Type/StructElem/Pg 3 0 R/K 21>>
+<</Type/OBJR/Obj 12 0 R/Pg 3 0 R>>
+<</P 125 0 R/S/Span/Type/StructElem/ActualText(@Fall2018BioAnth) /K[ 22] /Pg 3 0 R>>
+<</P 125 0 R/S/Span/Type/StructElem/Pg 3 0 R/K 23>>
+<</P 122 0 R/S/Link/Type/StructElem/K[ 126 0 R 127 0 R 128 0 R] /Pg 3 0 R>>
+<</P 122 0 R/S/Span/Type/StructElem/ActualText(Office: ) /K[ 24] /Pg 3 0 R>>
+<</P 122 0 R/S/Span/Type/StructElem/ActualText(LH) /K[ 25] /Pg 3 0 R>>
+<</P 122 0 R/S/Span/Type/StructElem/ActualText(-) /K[ 26] /Pg 3 0 R>>
+<</P 122 0 R/S/Span/Type/StructElem/ActualText(647) /K[ 27] /Pg 3 0 R>>
+<</P 122 0 R/S/Span/Type/StructElem/ActualText(Office hours: ) /K[ 28] /Pg 3 0 R>>
+<</P 122 0 R/S/Span/Type/StructElem/ActualText(Tuesdays & Thursdays 11:30 AM ) /K[ 29] /Pg 3 0 R>>
+<</P 122 0 R/S/Span/Type/StructElem/ActualText(þÿ ) /K[ 30] /Pg 3 0 R>>
+<</P 122 0 R/S/Span/Type/StructElem/ActualText(12:30 PM. Feel free to drop in ) /K[ 31] /Pg 3 0 R>>
+<</P 122 0 R/S/Span/Type/StructElem/ActualText(or call by phone without appointment, or correspond over email.) /K[ 32] /Pg 3 0 R>>
+<</P 101 0 R/S/P/Type/StructElem/K[ 123 0 R 124 0 R 125 0 R 129 0 R 130 0 R 131 0 R 132 0 R 133 0 R 134 0 R 135 0 R 136 0 R 137 0 R] /Pg 3 0 R>>
+<</P 92 0 R/S/Textbox/Type/StructElem/K[ 102 0 R 113 0 R 115 0 R 122 0 R] /Pg 3 0 R>>
+<</P 92 0 R/S/Figure/Type/StructElem/K[ 33] /Pg 3 0 R>>
+<</P 92 0 R/S/Figure/Type/StructElem/K[ 34] /Pg 3 0 R>>
+<</P 76 0 R/S/Slide/Type/StructElem/K[ 93 0 R 95 0 R 101 0 R 138 0 R 139 0 R] /Pg 3 0 R>>
+<</P 140 0 R/S/Span/Type/StructElem/Pg 3 0 R/K 35>>
+<</P 143 0 R/S/Span/Type/StructElem/ActualText(Lecture plan:) /K[ 36] /Pg 3 0 R>>
+<</P 142 0 R/S/H1/Type/StructElem/K[ 144 0 R] /Pg 3 0 R>>
+<</P 140 0 R/S/Textbox/Type/StructElem/K[ 143 0 R] /Pg 3 0 R>>
+<</P 148 0 R/S/Span/Type/StructElem/ActualText(þÿ ") /K[ 37] /Pg 3 0 R>>
+<</P 148 0 R/S/Span/Type/StructElem/ActualText(Reminders) /K[ 38] /Pg 3 0 R>>
+<</P 147 0 R/S/LBody/Type/StructElem/K[ 149 0 R 150 0 R] /Pg 3 0 R>>
+<</P 146 0 R/S/LI/Type/StructElem/K[ 148 0 R] /Pg 3 0 R>>
+<</P 152 0 R/S/Span/Type/StructElem/ActualText(þÿ ") /K[ 39] /Pg 3 0 R>>
+<</P 152 0 R/S/Span/Type/StructElem/ActualText(Week 4 Lecture: finish) /K[ 40] /Pg 3 0 R>>
+<</P 151 0 R/S/LBody/Type/StructElem/K[ 153 0 R 154 0 R] /Pg 3 0 R>>
+<</P 146 0 R/S/LI/Type/StructElem/K[ 152 0 R] /Pg 3 0 R>>
+<</P 157 0 R/S/Span/Type/StructElem/ActualText(þÿ ) /K[ 41] /Pg 3 0 R>>
+<</P 157 0 R/S/Span/Type/StructElem/ActualText(Hardy) /K[ 42] /Pg 3 0 R>>
+<</P 157 0 R/S/Span/Type/StructElem/ActualText(-) /K[ 43] /Pg 3 0 R>>
+<</P 157 0 R/S/Span/Type/StructElem/ActualText(Weinberg Equilibrium) /K[ 44] /Pg 3 0 R>>
+<</P 156 0 R/S/LBody/Type/StructElem/K[ 158 0 R 159 0 R 160 0 R 161 0 R] /Pg 3 0 R>>
+<</P 155 0 R/S/LI/Type/StructElem/K[ 157 0 R] /Pg 3 0 R>>
+<</P 163 0 R/S/Span/Type/StructElem/ActualText(þÿ ) /K[ 45] /Pg 3 0 R>>
+<</P 163 0 R/S/Span/Type/StructElem/ActualText(þÿ L e v e l s   o f   s e l e c t i o n ;   K i n   S e l e c t i o n   &   H a m i l t o n  s   R u l e) /K[ 46] /Pg 3 0 R>>
+<</P 162 0 R/S/LBody/Type/StructElem/K[ 164 0 R 165 0 R] /Pg 3 0 R>>
+<</P 155 0 R/S/LI/Type/StructElem/K[ 163 0 R] /Pg 3 0 R>>
+<</P 146 0 R/S/L/Type/StructElem/K[ 156 0 R 162 0 R] /Pg 3 0 R>>
+<</P 167 0 R/S/Span/Type/StructElem/ActualText(þÿ ") /K[ 47] /Pg 3 0 R>>
+<</P 167 0 R/S/Span/Type/StructElem/ActualText(Week 5 Lecture) /K[ 48] /Pg 3 0 R>>
+<</P 167 0 R/S/Span/Type/StructElem/ActualText(: ) /K[ 49] /Pg 3 0 R>>
+<</P 167 0 R/S/Span/Type/StructElem/ActualText(Part 1: \(ch.5\)) /K[ 50] /Pg 3 0 R>>
+<</P 166 0 R/S/LBody/Type/StructElem/K[ 168 0 R 169 0 R 170 0 R 171 0 R] /Pg 3 0 R>>
+<</P 146 0 R/S/LI/Type/StructElem/K[ 167 0 R] /Pg 3 0 R>>
+<</P 174 0 R/S/Span/Type/StructElem/ActualText(þÿ ) /K[ 51] /Pg 3 0 R>>
+<</P 174 0 R/S/Span/Type/StructElem/ActualText(Introduction to human variation) /K[ 52] /Pg 3 0 R>>
+<</P 173 0 R/S/LBody/Type/StructElem/K[ 175 0 R 176 0 R] /Pg 3 0 R>>
+<</P 172 0 R/S/LI/Type/StructElem/K[ 174 0 R] /Pg 3 0 R>>
+<</P 178 0 R/S/Span/Type/StructElem/ActualText(þÿ ) /K[ 53] /Pg 3 0 R>>
+<</P 178 0 R/S/Span/Type/StructElem/ActualText(Race ) /K[ 54] /Pg 3 0 R>>
+<</P 178 0 R/S/Span/Type/StructElem/ActualText(Activity ) /K[ 55] /Pg 3 0 R>>
+<</P 178 0 R/S/Span/Type/StructElem/ActualText(-) /K[ 56] /Pg 3 0 R>>
+<</P 178 0 R/S/Span/Type/StructElem/ActualText(Sorting People) /K[ 57] /Pg 3 0 R>>
+<</P 177 0 R/S/LBody/Type/StructElem/K[ 179 0 R 180 0 R 181 0 R 182 0 R 183 0 R] /Pg 3 0 R>>
+<</P 172 0 R/S/LI/Type/StructElem/K[ 178 0 R] /Pg 3 0 R>>
+<</P 185 0 R/S/Span/Type/StructElem/ActualText(þÿ ) /K[ 58] /Pg 3 0 R>>
+<</P 185 0 R/S/Span/Type/StructElem/ActualText(Watch video: ) /K[ 59] /Pg 3 0 R>>
+<</P 185 0 R/S/Span/Type/StructElem/ActualText(Race ) /K[ 60] /Pg 3 0 R>>
+<</P 185 0 R/S/Span/Type/StructElem/ActualText(-) /K[ 61] /Pg 3 0 R>>
+<</P 185 0 R/S/Span/Type/StructElem/ActualText(Power of an Illusion) /K[ 62] /Pg 3 0 R>>
+<</P 185 0 R/S/Span/Type/StructElem/ActualText(-) /K[ 63] /Pg 3 0 R>>
+<</P 185 0 R/S/Span/Type/StructElem/ActualText(Pt. ) /K[ 64] /Pg 3 0 R>>
+<</P 185 0 R/S/Span/Type/StructElem/ActualText(1 & 2) /K[ 65] /Pg 3 0 R>>
+<</P 184 0 R/S/LBody/Type/StructElem/K[ 186 0 R 187 0 R 188 0 R 189 0 R 190 0 R 191 0 R 192 0 R 193 0 R] /Pg 3 0 R>>
+<</P 172 0 R/S/LI/Type/StructElem/K[ 185 0 R] /Pg 3 0 R>>
+<</P 146 0 R/S/L/Type/StructElem/K[ 173 0 R 177 0 R 184 0 R] /Pg 3 0 R>>
+<</P 195 0 R/S/Span/Type/StructElem/ActualText(þÿ ") /K[ 66] /Pg 3 0 R>>
+<</P 195 0 R/S/Span/Type/StructElem/ActualText(Lecture Part 2: ) /K[ 67] /Pg 3 0 R>>
+<</P 195 0 R/S/Span/Type/StructElem/ActualText(\(ch.5\)) /K[ 68] /Pg 3 0 R>>
+<</P 194 0 R/S/LBody/Type/StructElem/K[ 196 0 R 197 0 R 198 0 R] /Pg 3 0 R>>
+<</P 146 0 R/S/LI/Type/StructElem/K[ 195 0 R] /Pg 3 0 R>>
+<</P 145 0 R/S/L/Type/StructElem/K[ 147 0 R 151 0 R 155 0 R 166 0 R 172 0 R 194 0 R] /Pg 3 0 R>>
+<</P 140 0 R/S/Textbox/Type/StructElem/K[ 146 0 R] /Pg 3 0 R>>
+<</P 76 0 R/S/Slide/Type/StructElem/K[ 141 0 R 142 0 R 145 0 R] /Pg 3 0 R>>
+<</P 199 0 R/S/Span/Type/StructElem/Pg 3 0 R/K 69>>
+<</P 202 0 R/S/Span/Type/StructElem/ActualText(Reminders:) /K[ 70] /Pg 3 0 R>>
+<</P 201 0 R/S/H1/Type/StructElem/K[ 203 0 R] /Pg 3 0 R>>
+<</P 199 0 R/S/Textbox/Type/StructElem/K[ 202 0 R] /Pg 3 0 R>>
+<</P 208 0 R/S/Span/Type/StructElem/ActualText(þÿ ") /K[ 71] /Pg 3 0 R>>
+<</P 208 0 R/S/Span/Type/StructElem/ActualText(Now that Quiz 1 is closed, answers are available on Titanium for review. ) /K[ 72] /Pg 3 0 R>>
+<</P 207 0 R/S/LBody/Type/StructElem/K[ 209 0 R 210 0 R] /Pg 3 0 R>>
+<</P 206 0 R/S/LI/Type/StructElem/K[ 208 0 R] /Pg 3 0 R>>
+<</P 212 0 R/S/Span/Type/StructElem/ActualText(þÿ ") /K[ 73] /Pg 3 0 R>>
+<</P 212 0 R/S/Span/Type/StructElem/ActualText(First lab report due ) /K[ 74] /Pg 3 0 R>>
+<</P 212 0 R/S/Span/Type/StructElem/ActualText(by ) /K[ 75] /Pg 3 0 R>>
+<</P 212 0 R/S/Span/Type/StructElem/ActualText(Midnight Sunday September 30th) /K[ 76] /Pg 3 0 R>>
+<</P 211 0 R/S/LBody/Type/StructElem/K[ 213 0 R 214 0 R 215 0 R 216 0 R] /Pg 3 0 R>>
+<</P 206 0 R/S/LI/Type/StructElem/K[ 212 0 R] /Pg 3 0 R>>
+<</P 218 0 R/S/Span/Type/StructElem/ActualText(þÿ ) /K[ 77] /Pg 3 0 R>>
+<</P 218 0 R/S/Span/Type/StructElem/ActualText(Related topics: natural selection & adaptation \(traits & selection ) /K[ 78] /Pg 3 0 R>>
+<</P 218 0 R/S/Span/Type/StructElem/ActualText(pressures\), ) /K[ 79] /Pg 3 0 R>>
+<</P 217 0 R/S/LBody/Type/StructElem/K[ 219 0 R 220 0 R 221 0 R] /Pg 3 0 R>>
+<</P 206 0 R/S/LI/Type/StructElem/K[ 218 0 R] /Pg 3 0 R>>
+<</P 223 0 R/S/Span/Type/StructElem/ActualText(þÿ ) /K[ 80] /Pg 3 0 R>>
+<</P 223 0 R/S/Span/Type/StructElem/ActualText(Need to successfully complete the Darwin Survival Game 3 times and ) /K[ 81] /Pg 3 0 R>>
+<</P 223 0 R/S/Span/Type/StructElem/ActualText(write about your experiences) /K[ 82] /Pg 3 0 R>>
+<</P 222 0 R/S/LBody/Type/StructElem/K[ 224 0 R 225 0 R 226 0 R] /Pg 3 0 R>>
+<</P 206 0 R/S/LI/Type/StructElem/K[ 223 0 R] /Pg 3 0 R>>
+<</P 228 0 R/S/Span/Type/StructElem/ActualText(þÿ ) /K[ 83] /Pg 3 0 R>>
+<</P 228 0 R/S/Span/Type/StructElem/ActualText(At least 500 words \(your own words, not quoted\) with image of your ) /K[ 84] /Pg 3 0 R>>
+<</P 228 0 R/S/Span/Type/StructElem/ActualText(artwork inserted into document) /K[ 85] /Pg 3 0 R>>
+<</P 227 0 R/S/LBody/Type/StructElem/K[ 229 0 R 230 0 R 231 0 R] /Pg 3 0 R>>
+<</P 206 0 R/S/LI/Type/StructElem/K[ 228 0 R] /Pg 3 0 R>>
+<</P 233 0 R/S/Span/Type/StructElem/ActualText(þÿ ) /K[ 86] /Pg 3 0 R>>
+<</P 233 0 R/S/Span/Type/StructElem/ActualText(Submit a single file on Titanium as word .doc or .) /K[ 87] /Pg 3 0 R>>
+<</P 233 0 R/S/Span/Type/StructElem/ActualText(docx) /K[ 88] /Pg 3 0 R>>
+<</P 232 0 R/S/LBody/Type/StructElem/K[ 234 0 R 235 0 R 236 0 R] /Pg 3 0 R>>
+<</P 206 0 R/S/LI/Type/StructElem/K[ 233 0 R] /Pg 3 0 R>>
+<</P 238 0 R/S/Span/Type/StructElem/ActualText(þÿ ) /K[ 89] /Pg 3 0 R>>
+<</P 238 0 R/S/Span/Type/StructElem/ActualText(Clear directions & grading rubric) /K[ 90] /Pg 3 0 R>>
+<</P 237 0 R/S/LBody/Type/StructElem/K[ 239 0 R 240 0 R] /Pg 3 0 R>>
+<</P 206 0 R/S/LI/Type/StructElem/K[ 238 0 R] /Pg 3 0 R>>
+<</P 205 0 R/S/L/Type/StructElem/K[ 207 0 R 211 0 R 217 0 R 222 0 R 227 0 R 232 0 R 237 0 R] /Pg 3 0 R>>
+<</P 242 0 R/S/Span/Type/StructElem/ActualText(þÿ ") /K[ 91] /Pg 3 0 R>>
+<</P 242 0 R/S/Span/Type/StructElem/ActualText(First exam is ) /K[ 92] /Pg 3 0 R>>
+<</P 242 0 R/S/Span/Type/StructElem/ActualText(Tuesday ) /K[ 93] /Pg 3 0 R>>
+<</P 242 0 R/S/Span/Type/StructElem/ActualText(October ) /K[ 94] /Pg 3 0 R>>
+<</P 242 0 R/S/Span/Type/StructElem/ActualText(2) /K[ 95] /Pg 3 0 R>>
+<</P 242 0 R/S/Span/Type/StructElem/ActualText(nd) /K[ 96] /Pg 3 0 R>>
+<</P 242 0 R/S/Span/Type/StructElem/ActualText(\(in class\) ) /K[ 97] /Pg 3 0 R>>
+<</P 242 0 R/S/Span/Type/StructElem/ActualText(covering chapters ) /K[ 98] /Pg 3 0 R>>
+<</P 242 0 R/S/Span/Type/StructElem/ActualText(Intro.,1,2,3,4,5 ) /K[ 99] /Pg 3 0 R>>
+<</P 242 0 R/S/Span/Type/StructElem/ActualText(and lecture/video. ) /K[ 100] /Pg 3 0 R>>
+<</P 242 0 R/S/Span/Type/StructElem/ActualText(All ) /K[ 101] /Pg 3 0 R>>
+<</P 242 0 R/S/Span/Type/StructElem/ActualText(multiple choice \(mixed format\) including visual identification tasks. ) /K[ 102] /Pg 3 0 R>>
+<</P 242 0 R/S/Span/Type/StructElem/ActualText(Closed ) /K[ 103] /Pg 3 0 R>>
+<</P 242 0 R/S/Span/Type/StructElem/ActualText(book/note, ) /K[ 104] /Pg 3 0 R>>
+<</P 242 0 R/S/Span/Type/StructElem/ActualText(Scantron) /K[ 105] /Pg 3 0 R>>
+<</P 242 0 R/S/Span/Type/StructElem/ActualText(\(green, # 882\) & pencils) /K[ 106] /Pg 3 0 R>>
+<</P 241 0 R/S/LBody/Type/StructElem/K[ 243 0 R 244 0 R 245 0 R 246 0 R 247 0 R 248 0 R 249 0 R 250 0 R 251 0 R 252 0 R 253 0 R 254 0 R 255 0 R 256 0 R 257 0 R 258 0 R] /Pg 3 0 R>>
+<</P 205 0 R/S/LI/Type/StructElem/K[ 242 0 R] /Pg 3 0 R>>
+<</P 261 0 R/S/Span/Type/StructElem/ActualText(þÿ ) /K[ 107] /Pg 3 0 R>>
+<</P 261 0 R/S/Span/Type/StructElem/ActualText(Recommended review strategy) /K[ 108] /Pg 3 0 R>>
+<</P 261 0 R/S/Span/Type/StructElem/ActualText(:) /K[ 109] /Pg 3 0 R>>
+<</P 260 0 R/S/LBody/Type/StructElem/K[ 262 0 R 263 0 R 264 0 R] /Pg 3 0 R>>
+<</P 259 0 R/S/LI/Type/StructElem/K[ 261 0 R] /Pg 3 0 R>>
+<</P 267 0 R/S/Span/Type/StructElem/ActualText(þÿ ") /K[ 110] /Pg 3 0 R>>
+<</P 267 0 R/S/Span/Type/StructElem/ActualText(Review chapters & look over) /K[ 111] /Pg 3 0 R>>
+<</P 267 0 R/S/Span/Type/StructElem/ActualText(key terms) /K[ 112] /Pg 3 0 R>>
+<</P 267 0 R/S/Span/Type/StructElem/ActualText(and ) /K[ 113] /Pg 3 0 R>>
+<</P 267 0 R/S/Span/Type/StructElem/ActualText(figures) /K[ 114] /Pg 3 0 R>>
+<</P 267 0 R/S/Span/Type/StructElem/ActualText(in the ) /K[ 115] /Pg 3 0 R>>
+<</P 267 0 R/S/Span/Type/StructElem/ActualText(text) /K[ 116] /Pg 3 0 R>>
+<</P 266 0 R/S/LBody/Type/StructElem/K[ 268 0 R 269 0 R 270 0 R 271 0 R 272 0 R 273 0 R 274 0 R] /Pg 3 0 R>>
+<</P 265 0 R/S/LI/Type/StructElem/K[ 267 0 R] /Pg 3 0 R>>
+<</P 276 0 R/S/Span/Type/StructElem/ActualText(þÿ ") /K[ 117] /Pg 3 0 R>>
+<</P 276 0 R/S/Span/Type/StructElem/ActualText(Review ) /K[ 118] /Pg 3 0 R>>
+<</P 276 0 R/S/Span/Type/StructElem/ActualText(lecture slides ) /K[ 119] /Pg 3 0 R>>
+<</P 276 0 R/S/Span/Type/StructElem/ActualText(\(on Titanium\)) /K[ 120] /Pg 3 0 R>>
+<</P 275 0 R/S/LBody/Type/StructElem/K[ 277 0 R 278 0 R 279 0 R 280 0 R] /Pg 3 0 R>>
+<</P 265 0 R/S/LI/Type/StructElem/K[ 276 0 R] /Pg 3 0 R>>
+<</P 282 0 R/S/Span/Type/StructElem/ActualText(þÿ ") /K[ 121] /Pg 3 0 R>>
+<</P 282 0 R/S/Span/Type/StructElem/ActualText(Watch recommended ) /K[ 122] /Pg 3 0 R>>
+<</P 282 0 R/S/Span/Type/StructElem/ActualText(clips & ) /K[ 123] /Pg 3 0 R>>
+<</P 282 0 R/S/Span/Type/StructElem/ActualText(movies) /K[ 124] /Pg 3 0 R>>
+<</P 281 0 R/S/LBody/Type/StructElem/K[ 283 0 R 284 0 R 285 0 R 286 0 R] /Pg 3 0 R>>
+<</P 265 0 R/S/LI/Type/StructElem/K[ 282 0 R] /Pg 3 0 R>>
+<</P 259 0 R/S/L/Type/StructElem/K[ 266 0 R 275 0 R 281 0 R] /Pg 3 0 R>>
+<</P 205 0 R/S/L/Type/StructElem/K[ 260 0 R 265 0 R] /Pg 3 0 R>>
+<</P 204 0 R/S/L/Type/StructElem/K[ 206 0 R 241 0 R 259 0 R] /Pg 3 0 R>>
+<</P 199 0 R/S/Textbox/Type/StructElem/K[ 205 0 R] /Pg 3 0 R>>
+<</P 76 0 R/S/Slide/Type/StructElem/K[ 200 0 R 201 0 R 204 0 R] /Pg 3 0 R>>
+<</P 287 0 R/S/Span/Type/StructElem/Pg 3 0 R/K 125>>
+<</P 290 0 R/S/Span/Type/StructElem/ActualText(Hardy) /K[ 126] /Pg 3 0 R>>
+<</P 290 0 R/S/Span/Type/StructElem/ActualText(-) /K[ 127] /Pg 3 0 R>>
+<</P 290 0 R/S/Span/Type/StructElem/ActualText(Weinberg Equilibrium) /K[ 128] /Pg 3 0 R>>
+<</P 289 0 R/S/P/Type/StructElem/K[ 291 0 R 292 0 R 293 0 R] /Pg 3 0 R>>
+<</P 287 0 R/S/Textbox/Type/StructElem/K[ 290 0 R] /Pg 3 0 R>>
+<</P 295 0 R/S/Span/Type/StructElem/ActualText(In F) /K[ 129] /Pg 3 0 R>>
+<</P 295 0 R/S/Span/Type/StructElem/ActualText(0) /K[ 130] /Pg 3 0 R>>
+<</P 295 0 R/S/Span/Type/StructElem/ActualText(allele frequencies ) /K[ 131] /Pg 3 0 R>>
+<</P 295 0 R/S/Span/Type/StructElem/ActualText(\() /K[ 132] /Pg 3 0 R>>
+<</P 295 0 R/S/Span/Type/StructElem/ActualText(p, q\)) /K[ 133] /Pg 3 0 R>>
+<</P 295 0 R/S/Span/Type/StructElem/ActualText(can take any value, so long as ) /K[ 134] /Pg 3 0 R>>
+<</P 295 0 R/S/Span/Type/StructElem/ActualText(p + q ) /K[ 135] /Pg 3 0 R>>
+<</P 295 0 R/S/Span/Type/StructElem/ActualText(= 1 ) /K[ 136] /Pg 3 0 R>>
+<</P 294 0 R/S/P/Type/StructElem/K[ 296 0 R 297 0 R 298 0 R 299 0 R 300 0 R 301 0 R 302 0 R 303 0 R] /Pg 3 0 R>>
+<</P 304 0 R/S/Span/Type/StructElem/ActualText(In ) /K[ 137] /Pg 3 0 R>>
+<</P 304 0 R/S/Span/Type/StructElem/ActualText(F) /K[ 138] /Pg 3 0 R>>
+<</P 304 0 R/S/Span/Type/StructElem/ActualText(1 ) /K[ 139] /Pg 3 0 R>>
+<</P 304 0 R/S/Span/Type/StructElem/ActualText(generation \() /K[ 140] /Pg 3 0 R>>
+<</P 304 0 R/S/Span/Type/StructElem/ActualText(p + ) /K[ 141] /Pg 3 0 R>>
+<</P 304 0 R/S/Span/Type/StructElem/ActualText(q) /K[ 142] /Pg 3 0 R>>
+<</P 304 0 R/S/Span/Type/StructElem/ActualText(\) ) /K[ 143] /Pg 3 0 R>>
+<</P 304 0 R/S/Span/Type/StructElem/ActualText(þÿ ×) /K[ 144] /Pg 3 0 R>>
+<</P 304 0 R/S/Span/Type/StructElem/ActualText(\() /K[ 145] /Pg 3 0 R>>
+<</P 304 0 R/S/Span/Type/StructElem/ActualText(p + q) /K[ 146] /Pg 3 0 R>>
+<</P 304 0 R/S/Span/Type/StructElem/ActualText(\) ) /K[ 147] /Pg 3 0 R>>
+<</P 304 0 R/S/Span/Type/StructElem/ActualText(= ) /K[ 148] /Pg 3 0 R>>
+<</P 304 0 R/S/Span/Type/StructElem/ActualText(\() /K[ 149] /Pg 3 0 R>>
+<</P 304 0 R/S/Span/Type/StructElem/ActualText(p + ) /K[ 150] /Pg 3 0 R>>
+<</P 304 0 R/S/Span/Type/StructElem/ActualText(q) /K[ 151] /Pg 3 0 R>>
+<</P 304 0 R/S/Span/Type/StructElem/ActualText(\)) /K[ 152] /Pg 3 0 R>>
+<</P 304 0 R/S/Span/Type/StructElem/ActualText(2) /K[ 153] /Pg 3 0 R>>
+<</P 294 0 R/S/P/Type/StructElem/K[ 305 0 R 306 0 R 307 0 R 308 0 R 309 0 R 310 0 R 311 0 R 312 0 R 313 0 R 314 0 R 315 0 R 316 0 R 317 0 R 318 0 R 319 0 R 320 0 R 321 0 R] /Pg 3 0 R>>
+<</P 322 0 R/S/Span/Type/StructElem/ActualText(Random ) /K[ 154] /Pg 3 0 R>>
+<</P 322 0 R/S/Span/Type/StructElem/ActualText(mating ) /K[ 155] /Pg 3 0 R>>
+<</P 322 0 R/S/Span/Type/StructElem/ActualText(will not change ) /K[ 156] /Pg 3 0 R>>
+<</P 322 0 R/S/Span/Type/StructElem/ActualText(allele ) /K[ 157] /Pg 3 0 R>>
+<</P 322 0 R/S/Span/Type/StructElem/ActualText(frequencies.) /K[ 158] /Pg 3 0 R>>
+<</P 294 0 R/S/P/Type/StructElem/K[ 323 0 R 324 0 R 325 0 R 326 0 R 327 0 R] /Pg 3 0 R>>
+<</P 328 0 R/S/Span/Type/StructElem/ActualText(If ) /K[ 159] /Pg 3 0 R>>
+<</P 328 0 R/S/Span/Type/StructElem/ActualText(no evolutionary forces at work, ) /K[ 160] /Pg 3 0 R>>
+<</P 328 0 R/S/Span/Type/StructElem/ActualText(genotypic frequencies ) /K[ 161] /Pg 3 0 R>>
+<</P 328 0 R/S/Span/Type/StructElem/ActualText(should remain ) /K[ 162] /Pg 3 0 R>>
+<</P 328 0 R/S/Span/Type/StructElem/ActualText(constant after one ) /K[ 163] /Pg 3 0 R>>
+<</P 328 0 R/S/Span/Type/StructElem/ActualText(generation.) /K[ 164] /Pg 3 0 R>>
+<</P 294 0 R/S/P/Type/StructElem/K[ 329 0 R 330 0 R 331 0 R 332 0 R 333 0 R 334 0 R] /Pg 3 0 R>>
+<</P 335 0 R/S/Span/Type/StructElem/ActualText(If the genotypic frequencies are ) /K[ 165] /Pg 3 0 R>>
+<</P 335 0 R/S/Span/Type/StructElem/ActualText(changing \(not in equilibrium\), ) /K[ 166] /Pg 3 0 R>>
+<</P 335 0 R/S/Span/Type/StructElem/ActualText(then ) /K[ 167] /Pg 3 0 R>>
+<</P 335 0 R/S/Span/Type/StructElem/ActualText(there is evidence of ) /K[ 168] /Pg 3 0 R>>
+<</P 335 0 R/S/Span/Type/StructElem/ActualText(evolution.) /K[ 169] /Pg 3 0 R>>
+<</P 294 0 R/S/P/Type/StructElem/K[ 336 0 R 337 0 R 338 0 R 339 0 R 340 0 R] /Pg 3 0 R>>
+<</P 287 0 R/S/Textbox/Type/StructElem/K[ 295 0 R 304 0 R 322 0 R 328 0 R 335 0 R] /Pg 3 0 R>>
+<</P 287 0 R/S/Figure/Type/StructElem/K[ 170] /Pg 3 0 R>>
+<</P 76 0 R/S/Slide/Type/StructElem/K[ 288 0 R 289 0 R 294 0 R 341 0 R] /Pg 3 0 R>>
+<</P 342 0 R/S/Span/Type/StructElem/Pg 3 0 R/K 171>>
+<</P 342 0 R/S/Figure/Type/StructElem/K[ 172] /Pg 3 0 R>>
+<</P 346 0 R/S/Span/Type/StructElem/ActualText(Disequilibrium) /K[ 173] /Pg 3 0 R>>
+<</P 345 0 R/S/P/Type/StructElem/K[ 347 0 R] /Pg 3 0 R>>
+<</P 342 0 R/S/Textbox/Type/StructElem/K[ 346 0 R] /Pg 3 0 R>>
+<</P 342 0 R/S/Figure/Type/StructElem/K[ 174] /Pg 3 0 R>>
+<</P 350 0 R/S/Span/Type/StructElem/ActualText(Natural selection gradually ) /K[ 175] /Pg 3 0 R>>
+<</P 350 0 R/S/Span/Type/StructElem/ActualText(adapts a population to the ) /K[ 176] /Pg 3 0 R>>
+<</P 350 0 R/S/Span/Type/StructElem/ActualText(habitat.) /K[ 177] /Pg 3 0 R>>
+<</P 349 0 R/S/P/Type/StructElem/K[ 351 0 R 352 0 R 353 0 R] /Pg 3 0 R>>
+<</P 354 0 R/S/Span/Type/StructElem/ActualText(At equilibrium, stabilizing ) /K[ 178] /Pg 3 0 R>>
+<</P 354 0 R/S/Span/Type/StructElem/ActualText(selection maintains the status ) /K[ 179] /Pg 3 0 R>>
+<</P 354 0 R/S/Span/Type/StructElem/ActualText(quo.) /K[ 180] /Pg 3 0 R>>
+<</P 349 0 R/S/P/Type/StructElem/K[ 355 0 R 356 0 R 357 0 R] /Pg 3 0 R>>
+<</P 358 0 R/S/Span/Type/StructElem/ActualText(If the environment changes, ) /K[ 181] /Pg 3 0 R>>
+<</P 358 0 R/S/Span/Type/StructElem/ActualText(natural selection ) /K[ 182] /Pg 3 0 R>>
+<</P 358 0 R/S/Span/Type/StructElem/ActualText(must ) /K[ 183] /Pg 3 0 R>>
+<</P 358 0 R/S/Span/Type/StructElem/ActualText(catch ) /K[ 184] /Pg 3 0 R>>
+<</P 358 0 R/S/Span/Type/StructElem/ActualText(up) /K[ 185] /Pg 3 0 R>>
+<</P 358 0 R/S/Span/Type/StructElem/ActualText(. But until it does, the ) /K[ 186] /Pg 3 0 R>>
+<</P 358 0 R/S/Span/Type/StructElem/ActualText(population will show ) /K[ 187] /Pg 3 0 R>>
+<</P 358 0 R/S/Span/Type/StructElem/ActualText(phenotypes frequencies that ) /K[ 188] /Pg 3 0 R>>
+<</P 358 0 R/S/Span/Type/StructElem/ActualText(are out of equilibrium with what ) /K[ 189] /Pg 3 0 R>>
+<</P 358 0 R/S/Span/Type/StructElem/ActualText(continued selection will ) /K[ 190] /Pg 3 0 R>>
+<</P 358 0 R/S/Span/Type/StructElem/ActualText(produce.) /K[ 191] /Pg 3 0 R>>
+<</P 349 0 R/S/P/Type/StructElem/K[ 359 0 R 360 0 R 361 0 R 362 0 R 363 0 R 364 0 R 365 0 R 366 0 R 367 0 R 368 0 R 369 0 R] /Pg 3 0 R>>
+<</P 342 0 R/S/Textbox/Type/StructElem/K[ 350 0 R 354 0 R 358 0 R] /Pg 3 0 R>>
+<</P 342 0 R/S/Figure/Type/StructElem/K[ 192] /Pg 3 0 R>>
+<</P 342 0 R/S/Figure/Type/StructElem/K[ 193] /Pg 3 0 R>>
+<</P 76 0 R/S/Slide/Type/StructElem/K[ 343 0 R 344 0 R 345 0 R 348 0 R 349 0 R 370 0 R 371 0 R] /Pg 3 0 R>>
+<</P 372 0 R/S/Span/Type/StructElem/Pg 3 0 R/K 194>>
+<</P 372 0 R/S/Figure/Type/StructElem/K[ 195] /Pg 3 0 R>>
+<</P 372 0 R/S/Figure/Alt(http://img04.deviantart.net/1745/i/2007/001/2/c/really_hairy_n_scary_spider_2_by_gracies_stock.jpg) /Type/StructElem/K[ 196] /Pg 3 0 R>>
+<</P 76 0 R/S/Slide/Type/StructElem/K[ 373 0 R 374 0 R 375 0 R] /Pg 3 0 R>>
+<</P 76 0 R/S/Header/Type/StructElem/K[] /Pg 40 0 R>>
+<</P 380 0 R/S//Type/StructElem/K[] >>
+<</P 379 0 R/S/Span/Type/StructElem/ActualText(9/23/2018) /K[ 381 0 R] /Pg 40 0 R>>
+<</P 378 0 R/S/P/Type/StructElem/K[ 380 0 R] /Pg 40 0 R>>
+<</P 377 0 R/S/Textbox/Type/StructElem/K[ 379 0 R] /Pg 40 0 R>>
+<</P 76 0 R/S/Footer/Type/StructElem/K[ 378 0 R] /Pg 40 0 R>>
+<</P 76 0 R/S/Footer/Type/StructElem/K[] /Pg 40 0 R>>
+<</P 386 0 R/S//Type/StructElem/K[] >>
+<</P 385 0 R/S/Span/Type/StructElem/ActualText(2) /K[ 387 0 R] /Pg 40 0 R>>
+<</P 384 0 R/S/P/Type/StructElem/K[ 386 0 R] /Pg 40 0 R>>
+<</P 383 0 R/S/Textbox/Type/StructElem/K[ 385 0 R] /Pg 40 0 R>>
+<</P 76 0 R/S/Footer/Type/StructElem/K[ 384 0 R] /Pg 40 0 R>>
+<</P 388 0 R/S/Span/Type/StructElem/Pg 40 0 R/K 0>>
+<</P 392 0 R/S/Span/Type/StructElem/ActualText(Levels of Selection) /K[ 1] /Pg 40 0 R>>
+<</P 391 0 R/S/P/Type/StructElem/K[ 393 0 R] /Pg 40 0 R>>
+<</P 388 0 R/S/Textbox/Type/StructElem/K[ 392 0 R] /Pg 40 0 R>>
+<</P 398 0 R/S/Span/Type/StructElem/ActualText(þÿ ) /K[ 2] /Pg 40 0 R>>
+<</P 398 0 R/S/Span/Type/StructElem/ActualText(Group ) /K[ 3] /Pg 40 0 R>>
+<</P 398 0 R/S/Span/Type/StructElem/ActualText(selection) /K[ 4] /Pg 40 0 R>>
+<</P 398 0 R/S/Span/Type/StructElem/ActualText(: intuitively appealing at first, but ) /K[ 5] /Pg 40 0 R>>
+<</P 398 0 R/S/Span/Type/StructElem/ActualText(problem of ) /K[ 6] /Pg 40 0 R>>
+<</P 398 0 R/S/Span/Type/StructElem/ActualText(mutant invasion by ) /K[ 7] /Pg 40 0 R>>
+<</P 398 0 R/S/Span/Type/StructElem/ActualText(freeriders) /K[ 8] /Pg 40 0 R>>
+<</P 397 0 R/S/LBody/Type/StructElem/K[ 399 0 R 400 0 R 401 0 R 402 0 R 403 0 R 404 0 R 405 0 R] /Pg 40 0 R>>
+<</P 396 0 R/S/LI/Type/StructElem/K[ 398 0 R] /Pg 40 0 R>>
+<</P 408 0 R/S/Span/Type/StructElem/ActualText(þÿ ) /K[ 9] /Pg 40 0 R>>
+<</P 408 0 R/S/Span/Type/StructElem/ActualText(G.C. Williams \(1966\)) /K[ 10] /Pg 40 0 R>>
+<</P 407 0 R/S/LBody/Type/StructElem/K[ 409 0 R 410 0 R] /Pg 40 0 R>>
+<</P 406 0 R/S/LI/Type/StructElem/K[ 408 0 R] /Pg 40 0 R>>
+<</P 396 0 R/S/L/Type/StructElem/K[ 407 0 R] /Pg 40 0 R>>
+<</P 412 0 R/S/Span/Type/StructElem/ActualText(þÿ ) /K[ 11] /Pg 40 0 R>>
+<</P 412 0 R/S/Span/Type/StructElem/ActualText(Individual selection) /K[ 12] /Pg 40 0 R>>
+<</P 411 0 R/S/LBody/Type/StructElem/K[ 413 0 R 414 0 R] /Pg 40 0 R>>
+<</P 396 0 R/S/LI/Type/StructElem/K[ 412 0 R] /Pg 40 0 R>>
+<</P 416 0 R/S/Span/Type/StructElem/ActualText(þÿ ) /K[ 13] /Pg 40 0 R>>
+<</P 416 0 R/S/Span/Type/StructElem/ActualText(Inclusive Fitness ) /K[ 14] /Pg 40 0 R>>
+<</P 416 0 R/S/Span/Type/StructElem/ActualText(\(fitness of the gene\) ) /K[ 15] /Pg 40 0 R>>
+<</P 415 0 R/S/LBody/Type/StructElem/K[ 417 0 R 418 0 R 419 0 R] /Pg 40 0 R>>
+<</P 396 0 R/S/LI/Type/StructElem/K[ 416 0 R] /Pg 40 0 R>>
+<</P 423 0 R/S/Span/Type/StructElem/ActualText(þÿ ) /K[ 16] /Pg 40 0 R>>
+<</P 423 0 R/S/Span/Type/StructElem/ActualText(Selection based on genes in individual and/or other kin) /K[ 17] /Pg 40 0 R>>
+<</P 422 0 R/S/LBody/Type/StructElem/K[ 424 0 R 425 0 R] /Pg 40 0 R>>
+<</P 421 0 R/S/LI/Type/StructElem/K[ 423 0 R] /Pg 40 0 R>>
+<</P 427 0 R/S/Span/Type/StructElem/ActualText(þÿ ) /K[ 18] /Pg 40 0 R>>
+<</P 427 0 R/S/Span/Type/StructElem/ActualText(Kin selection) /K[ 19] /Pg 40 0 R>>
+<</P 427 0 R/S/Span/Type/StructElem/ActualText(: preference for \(closer\) genetically related others) /K[ 20] /Pg 40 0 R>>
+<</P 426 0 R/S/LBody/Type/StructElem/K[ 428 0 R 429 0 R 430 0 R] /Pg 40 0 R>>
+<</P 421 0 R/S/LI/Type/StructElem/K[ 427 0 R] /Pg 40 0 R>>
+<</P 432 0 R/S/Span/Type/StructElem/ActualText(þÿ ) /K[ 21] /Pg 40 0 R>>
+<</P 432 0 R/S/Span/Type/StructElem/ActualText(Coefficient of relatedness ) /K[ 22] /Pg 40 0 R>>
+<</P 432 0 R/S/Span/Type/StructElem/ActualText(\() /K[ 23] /Pg 40 0 R>>
+<</P 432 0 R/S/Span/Type/StructElem/ActualText(r) /K[ 24] /Pg 40 0 R>>
+<</P 432 0 R/S/Span/Type/StructElem/ActualText(\)) /K[ 25] /Pg 40 0 R>>
+<</P 431 0 R/S/LBody/Type/StructElem/K[ 433 0 R 434 0 R 435 0 R 436 0 R 437 0 R] /Pg 40 0 R>>
+<</P 421 0 R/S/LI/Type/StructElem/K[ 432 0 R] /Pg 40 0 R>>
+<</P 439 0 R/S/Span/Type/StructElem/ActualText(þÿ ) /K[ 26] /Pg 40 0 R>>
+<</P 439 0 R/S/Span/Type/StructElem/ActualText(þÿ H a m i l t o n  s   r u l e :      ) /K[ 27] /Pg 40 0 R>>
+<</P 439 0 R/S/Span/Type/StructElem/ActualText(r  b  >  c) /K[ 28] /Pg 40 0 R>>
+<</P 438 0 R/S/LBody/Type/StructElem/K[ 440 0 R 441 0 R 442 0 R] /Pg 40 0 R>>
+<</P 421 0 R/S/LI/Type/StructElem/K[ 439 0 R] /Pg 40 0 R>>
+<</P 444 0 R/S/Span/Type/StructElem/ActualText(þÿ ) /K[ 29] /Pg 40 0 R>>
+<</P 444 0 R/S/Span/Type/StructElem/ActualText(Formula for when to provide another help \() /K[ 30] /Pg 40 0 R>>
+<</P 444 0 R/S/Span/Type/StructElem/ActualText(altruism) /K[ 31] /Pg 40 0 R>>
+<</P 444 0 R/S/Span/Type/StructElem/ActualText(\):) /K[ 32] /Pg 40 0 R>>
+<</P 443 0 R/S/LBody/Type/StructElem/K[ 445 0 R 446 0 R 447 0 R 448 0 R] /Pg 40 0 R>>
+<</P 421 0 R/S/LI/Type/StructElem/K[ 444 0 R] /Pg 40 0 R>>
+<</P 451 0 R/S/Span/Type/StructElem/ActualText(þÿ ) /K[ 33] /Pg 40 0 R>>
+<</P 451 0 R/S/Span/Type/StructElem/ActualText(when the benefit of altruism to the recipient) /K[ 34] /Pg 40 0 R>>
+<</P 450 0 R/S/LBody/Type/StructElem/K[ 452 0 R 453 0 R] /Pg 40 0 R>>
+<</P 449 0 R/S/LI/Type/StructElem/K[ 451 0 R] /Pg 40 0 R>>
+<</P 455 0 R/S/Span/Type/StructElem/ActualText(þÿ ) /K[ 35] /Pg 40 0 R>>
+<</P 455 0 R/S/Span/Type/StructElem/ActualText(devalued by the degree of kinship) /K[ 36] /Pg 40 0 R>>
+<</P 454 0 R/S/LBody/Type/StructElem/K[ 456 0 R 457 0 R] /Pg 40 0 R>>
+<</P 449 0 R/S/LI/Type/StructElem/K[ 455 0 R] /Pg 40 0 R>>
+<</P 459 0 R/S/Span/Type/StructElem/ActualText(þÿ ) /K[ 37] /Pg 40 0 R>>
+<</P 459 0 R/S/Span/Type/StructElem/ActualText(is greater than) /K[ 38] /Pg 40 0 R>>
+<</P 458 0 R/S/LBody/Type/StructElem/K[ 460 0 R 461 0 R] /Pg 40 0 R>>
+<</P 449 0 R/S/LI/Type/StructElem/K[ 459 0 R] /Pg 40 0 R>>
+<</P 463 0 R/S/Span/Type/StructElem/ActualText(þÿ ) /K[ 39] /Pg 40 0 R>>
+<</P 463 0 R/S/Span/Type/StructElem/ActualText(the cost of providing that benefit for the altruist) /K[ 40] /Pg 40 0 R>>
+<</P 462 0 R/S/LBody/Type/StructElem/K[ 464 0 R 465 0 R] /Pg 40 0 R>>
+<</P 449 0 R/S/LI/Type/StructElem/K[ 463 0 R] /Pg 40 0 R>>
+<</P 421 0 R/S/L/Type/StructElem/K[ 450 0 R 454 0 R 458 0 R 462 0 R] /Pg 40 0 R>>
+<</P 420 0 R/S/L/Type/StructElem/K[ 422 0 R 426 0 R 431 0 R 438 0 R 443 0 R 449 0 R] /Pg 40 0 R>>
+<</P 396 0 R/S/L/Type/StructElem/K[ 421 0 R] /Pg 40 0 R>>
+<</P 395 0 R/S/L/Type/StructElem/K[ 397 0 R 406 0 R 411 0 R 415 0 R 420 0 R] /Pg 40 0 R>>
+<</P 394 0 R/S/L/Type/StructElem/K[ 396 0 R] /Pg 40 0 R>>
+<</P 388 0 R/S/Textbox/Type/StructElem/K[ 395 0 R] /Pg 40 0 R>>
+<</P 388 0 R/S/Figure/Type/StructElem/K[ 41] /Pg 40 0 R>>
+<</P 388 0 R/S/Figure/Type/StructElem/K[ 42] /Pg 40 0 R>>
+<</P 388 0 R/S/Figure/Type/StructElem/K[ 43] /Pg 40 0 R>>
+<</P 388 0 R/S/Figure/Type/StructElem/K[ 44] /Pg 40 0 R>>
+<</P 76 0 R/S/Slide/Type/StructElem/K[ 389 0 R 391 0 R 394 0 R 466 0 R 467 0 R 468 0 R 469 0 R] /Pg 40 0 R>>
+<</P 470 0 R/S/Span/Type/StructElem/Pg 40 0 R/K 45>>
+<</P 470 0 R/S/Figure/Type/StructElem/K[ 46] /Pg 40 0 R>>
+<</P 474 0 R/S/Span/Type/StructElem/ActualText(Human ) /K[ 47] /Pg 40 0 R>>
+<</P 474 0 R/S/Span/Type/StructElem/ActualText(morphology ) /K[ 48] /Pg 40 0 R>>
+<</P 474 0 R/S/Span/Type/StructElem/ActualText(varies) /K[ 49] /Pg 40 0 R>>
+<</P 473 0 R/S/H1/Type/StructElem/K[ 475 0 R 476 0 R 477 0 R] /Pg 40 0 R>>
+<</P 470 0 R/S/Textbox/Type/StructElem/K[ 474 0 R] /Pg 40 0 R>>
+<</P 470 0 R/S/Figure/Type/StructElem/K[ 50] /Pg 40 0 R>>
+<</P 470 0 R/S/Figure/Type/StructElem/K[ 51] /Pg 40 0 R>>
+<</P 470 0 R/S/Figure/Type/StructElem/K[ 52] /Pg 40 0 R>>
+<</P 470 0 R/S/Figure/Type/StructElem/K[ 53] /Pg 40 0 R>>
+<</P 470 0 R/S/Figure/Type/StructElem/K[ 54] /Pg 40 0 R>>
+<</P 470 0 R/S/Figure/Type/StructElem/K[ 55] /Pg 40 0 R>>
+<</P 485 0 R/S/Span/Type/StructElem/ActualText(In 1962, Crayola voluntarily ) /K[ 56] /Pg 40 0 R>>
+<</P 485 0 R/S/Span/Type/StructElem/ActualText(changed Flesh to Peach) /K[ 57] /Pg 40 0 R>>
+<</P 484 0 R/S/P/Type/StructElem/K[ 486 0 R 487 0 R] /Pg 40 0 R>>
+<</P 470 0 R/S/Textbox/Type/StructElem/K[ 485 0 R] /Pg 40 0 R>>
+<</P 470 0 R/S/Figure/Type/StructElem/K[ 58] /Pg 40 0 R>>
+<</P 470 0 R/S/Figure/Type/StructElem/K[ 59] /Pg 40 0 R>>
+<</P 470 0 R/S/Figure/Type/StructElem/K[ 60] /Pg 40 0 R>>
+<</P 492 0 R/S/Span/Type/StructElem/ActualText(/) /K[ 61] /Pg 40 0 R>>
+<</P 491 0 R/S/P/Type/StructElem/K[ 493 0 R] /Pg 40 0 R>>
+<</P 470 0 R/S/Textbox/Type/StructElem/K[ 492 0 R] /Pg 40 0 R>>
+<</P 495 0 R/S/Span/Type/StructElem/ActualText(*100) /K[ 62] /Pg 40 0 R>>
+<</P 494 0 R/S/P/Type/StructElem/K[ 496 0 R] /Pg 40 0 R>>
+<</P 470 0 R/S/Textbox/Type/StructElem/K[ 495 0 R] /Pg 40 0 R>>
+<</P 498 0 R/S/Span/Type/StructElem/ActualText(ABO) /K[ 63] /Pg 40 0 R>>
+<</P 497 0 R/S/P/Type/StructElem/K[ 499 0 R] /Pg 40 0 R>>
+<</P 470 0 R/S/Textbox/Type/StructElem/K[ 498 0 R] /Pg 40 0 R>>
+<</P 501 0 R/S/Span/Type/StructElem/ActualText(HLA) /K[ 64] /Pg 40 0 R>>
+<</P 500 0 R/S/P/Type/StructElem/K[ 502 0 R] /Pg 40 0 R>>
+<</P 470 0 R/S/Textbox/Type/StructElem/K[ 501 0 R] /Pg 40 0 R>>
+<</P 504 0 R/S/Span/Type/StructElem/ActualText(Rh) /K[ 65] /Pg 40 0 R>>
+<</P 503 0 R/S/P/Type/StructElem/K[ 505 0 R] /Pg 40 0 R>>
+<</P 470 0 R/S/Textbox/Type/StructElem/K[ 504 0 R] /Pg 40 0 R>>
+<</P 470 0 R/S/Figure/Alt(http://i.imgur.com/3pKOh.jpg) /Type/StructElem/K[ 66] /Pg 40 0 R>>
+<</P 508 0 R/S/Span/Type/StructElem/ActualText(polymorphisms) /K[ 67] /Pg 40 0 R>>
+<</P 507 0 R/S/P/Type/StructElem/K[ 509 0 R] /Pg 40 0 R>>
+<</P 470 0 R/S/Textbox/Type/StructElem/K[ 508 0 R] /Pg 40 0 R>>
+<</P 76 0 R/S/Slide/Type/StructElem/K[ 471 0 R 472 0 R 473 0 R 478 0 R 479 0 R 480 0 R 481 0 R 482 0 R 483 0 R 484 0 R 488 0 R 489 0 R 490 0 R 491 0 R 494 0 R 497 0 R 500 0 R 503 0 R 506 0 R 507 0 R] /Pg 40 0 R>>
+<</P 510 0 R/S/Span/Type/StructElem/Pg 40 0 R/K 68>>
+<</P 513 0 R/S/Span/Type/StructElem/ActualText(What is race?) /K[ 69] /Pg 40 0 R>>
+<</P 512 0 R/S/P/Type/StructElem/K[ 514 0 R] /Pg 40 0 R>>
+<</P 510 0 R/S/Textbox/Type/StructElem/K[ 513 0 R] /Pg 40 0 R>>
+<</P 516 0 R/S/Span/Type/StructElem/ActualText(What do we each think of when we ) /K[ 70] /Pg 40 0 R>>
+<</P 516 0 R/S/Span/Type/StructElem/ActualText(þÿ s a y   t h e   w o r d    r a c e) /K[ 71] /Pg 40 0 R>>
+<</P 516 0 R/S/Span/Type/StructElem/ActualText(þÿ  ?) /K[ 72] /Pg 40 0 R>>
+<</P 516 0 R/S/Span/Type/StructElem/ActualText(Populations? Ethnic groups? ) /K[ 73] /Pg 40 0 R>>
+<</P 516 0 R/S/Span/Type/StructElem/ActualText(Phenotypes?) /K[ 74] /Pg 40 0 R>>
+<</P 515 0 R/S/P/Type/StructElem/K[ 517 0 R 518 0 R 519 0 R 520 0 R 521 0 R] /Pg 40 0 R>>
+<</P 522 0 R/S/Span/Type/StructElem/ActualText(What identifies us scientifically as ) /K[ 75] /Pg 40 0 R>>
+<</P 522 0 R/S/Span/Type/StructElem/ActualText(being of a specific race?) /K[ 76] /Pg 40 0 R>>
+<</P 515 0 R/S/P/Type/StructElem/K[ 523 0 R 524 0 R] /Pg 40 0 R>>
+<</P 525 0 R/S/Span/Type/StructElem/ActualText(What if you were told that you were ) /K[ 77] /Pg 40 0 R>>
+<</P 525 0 R/S/Span/Type/StructElem/ActualText(actually a different race or had racial ) /K[ 78] /Pg 40 0 R>>
+<</P 525 0 R/S/Span/Type/StructElem/ActualText(characteristics that matched another ) /K[ 79] /Pg 40 0 R>>
+<</P 525 0 R/S/Span/Type/StructElem/ActualText(group than your own?) /K[ 80] /Pg 40 0 R>>
+<</P 515 0 R/S/P/Type/StructElem/K[ 526 0 R 527 0 R 528 0 R 529 0 R] /Pg 40 0 R>>
+<</P 510 0 R/S/Textbox/Type/StructElem/K[ 516 0 R 522 0 R 525 0 R] /Pg 40 0 R>>
+<</P 510 0 R/S/Figure/Type/StructElem/K[ 81] /Pg 40 0 R>>
+<</P 510 0 R/S/Figure/Type/StructElem/K[ 82] /Pg 40 0 R>>
+<</P 510 0 R/S/Figure/Alt(http://static5.businessinsider.com/image/556c854deab8eab903b5ebc1-1026-1440/556c7a214ae56e586e457d37_vf-cover-bruce-jenner-july-2015.jpg) /Type/StructElem/K[ 83] /Pg 40 0 R>>
+<</P 510 0 R/S/Figure/Type/StructElem/K[ 84] /Pg 40 0 R>>
+<</P 76 0 R/S/Slide/Type/StructElem/K[ 511 0 R 512 0 R 515 0 R 530 0 R 531 0 R 532 0 R 533 0 R] /Pg 40 0 R>>
+<</P 534 0 R/S/Span/Type/StructElem/Pg 40 0 R/K 85>>
+<</P 537 0 R/S/Span/Type/StructElem/ActualText(Sorting ) /K[ 86] /Pg 40 0 R>>
+<</P 537 0 R/S/Span/Type/StructElem/ActualText(Race Activity) /K[ 87] /Pg 40 0 R>>
+<</P 536 0 R/S/P/Type/StructElem/K[ 538 0 R 539 0 R] /Pg 40 0 R>>
+<</P 534 0 R/S/Textbox/Type/StructElem/K[ 537 0 R] /Pg 40 0 R>>
+<</P 543 0 R/S/Span/Type/StructElem/ActualText(1.) /K[ 88] /Pg 40 0 R>>
+<</P 543 0 R/S/Span/Type/StructElem/ActualText(Write ) /K[ 89] /Pg 40 0 R>>
+<</P 543 0 R/S/Span/Type/StructElem/ActualText(þÿ d o w n   o n   a   s h e e t   o f   p a p e r   t h e    r a c e    \( o r   r a c e s \)   t h a t  ) /K[ 90] /Pg 40 0 R>>
+<</P 543 0 R/S/Span/Type/StructElem/ActualText(you ) /K[ 91] /Pg 40 0 R>>
+<</P 543 0 R/S/Span/Type/StructElem/ActualText(most ) /K[ 92] /Pg 40 0 R>>
+<</P 543 0 R/S/Span/Type/StructElem/ActualText(closely associate ) /K[ 93] /Pg 40 0 R>>
+<</P 543 0 R/S/Span/Type/StructElem/ActualText(with or identify with when asked. ) /K[ 94] /Pg 40 0 R>>
+<</P 542 0 R/S/LBody/Type/StructElem/K[ 544 0 R 545 0 R 546 0 R 547 0 R 548 0 R 549 0 R 550 0 R] /Pg 40 0 R>>
+<</P 541 0 R/S/LI/Type/StructElem/K[ 543 0 R] /Pg 40 0 R>>
+<</P 552 0 R/S/Span/Type/StructElem/ActualText(þÿ ") /K[ 95] /Pg 40 0 R>>
+<</P 552 0 R/S/Span/Type/StructElem/ActualText(The U.S. federal government currently recognizes six major racial ) /K[ 96] /Pg 40 0 R>>
+<</P 552 0 R/S/Span/Type/StructElem/ActualText(and ethnic categories:) /K[ 97] /Pg 40 0 R>>
+<</P 551 0 R/S/LBody/Type/StructElem/K[ 553 0 R 554 0 R 555 0 R] /Pg 40 0 R>>
+<</P 541 0 R/S/LI/Type/StructElem/K[ 552 0 R] /Pg 40 0 R>>
+<</P 558 0 R/S/Span/Type/StructElem/ActualText(þÿ ") /K[ 98] /Pg 40 0 R>>
+<</P 558 0 R/S/Span/Type/StructElem/ActualText(American Indian or Alaska Native) /K[ 99] /Pg 40 0 R>>
+<</P 557 0 R/S/LBody/Type/StructElem/K[ 559 0 R 560 0 R] /Pg 40 0 R>>
+<</P 556 0 R/S/LI/Type/StructElem/K[ 558 0 R] /Pg 40 0 R>>
+<</P 562 0 R/S/Span/Type/StructElem/ActualText(þÿ ") /K[ 100] /Pg 40 0 R>>
+<</P 562 0 R/S/Span/Type/StructElem/ActualText(Asian) /K[ 101] /Pg 40 0 R>>
+<</P 561 0 R/S/LBody/Type/StructElem/K[ 563 0 R 564 0 R] /Pg 40 0 R>>
+<</P 556 0 R/S/LI/Type/StructElem/K[ 562 0 R] /Pg 40 0 R>>
+<</P 566 0 R/S/Span/Type/StructElem/ActualText(þÿ ") /K[ 102] /Pg 40 0 R>>
+<</P 566 0 R/S/Span/Type/StructElem/ActualText(Black or African American) /K[ 103] /Pg 40 0 R>>
+<</P 565 0 R/S/LBody/Type/StructElem/K[ 567 0 R 568 0 R] /Pg 40 0 R>>
+<</P 556 0 R/S/LI/Type/StructElem/K[ 566 0 R] /Pg 40 0 R>>
+<</P 570 0 R/S/Span/Type/StructElem/ActualText(þÿ ") /K[ 104] /Pg 40 0 R>>
+<</P 570 0 R/S/Span/Type/StructElem/ActualText(Hispanic or ) /K[ 105] /Pg 40 0 R>>
+<</P 570 0 R/S/Span/Type/StructElem/ActualText(Latino) /K[ 106] /Pg 40 0 R>>
+<</P 569 0 R/S/LBody/Type/StructElem/K[ 571 0 R 572 0 R 573 0 R] /Pg 40 0 R>>
+<</P 556 0 R/S/LI/Type/StructElem/K[ 570 0 R] /Pg 40 0 R>>
+<</P 575 0 R/S/Span/Type/StructElem/ActualText(þÿ ") /K[ 107] /Pg 40 0 R>>
+<</P 575 0 R/S/Span/Type/StructElem/ActualText(White) /K[ 108] /Pg 40 0 R>>
+<</P 574 0 R/S/LBody/Type/StructElem/K[ 576 0 R 577 0 R] /Pg 40 0 R>>
+<</P 556 0 R/S/LI/Type/StructElem/K[ 575 0 R] /Pg 40 0 R>>
+<</P 579 0 R/S/Span/Type/StructElem/ActualText(þÿ ") /K[ 109] /Pg 40 0 R>>
+<</P 579 0 R/S/Span/Type/StructElem/ActualText(Native Hawaiian or Other Pacific Islander) /K[ 110] /Pg 40 0 R>>
+<</P 578 0 R/S/LBody/Type/StructElem/K[ 580 0 R 581 0 R] /Pg 40 0 R>>
+<</P 556 0 R/S/LI/Type/StructElem/K[ 579 0 R] /Pg 40 0 R>>
+<</P 541 0 R/S/L/Type/StructElem/K[ 557 0 R 561 0 R 565 0 R 569 0 R 574 0 R 578 0 R] /Pg 40 0 R>>
+<</P 583 0 R/S/Span/Type/StructElem/ActualText(þÿ ") /K[ 111] /Pg 40 0 R>>
+<</P 583 0 R/S/Span/Type/StructElem/ActualText(Other races ) /K[ 112] /Pg 40 0 R>>
+<</P 583 0 R/S/Span/Type/StructElem/ActualText(or response options are ) /K[ 113] /Pg 40 0 R>>
